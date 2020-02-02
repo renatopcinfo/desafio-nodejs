@@ -4,7 +4,7 @@
 ## Instalação do projeto
 
 ```
-yarn add
+yarn
 
 ```
 
